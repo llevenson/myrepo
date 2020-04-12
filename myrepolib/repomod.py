@@ -8,7 +8,6 @@ def myfunc():
 
 def print_name(name):
     """Returns a name with apple at the end"""
-    x + 5
 
 
     return name + "-apple"
